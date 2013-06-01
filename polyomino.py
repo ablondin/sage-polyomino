@@ -8,6 +8,7 @@ AUTHORS:
 - Simon Désaulniers
 - Sébastien Labbé
 - Franco Saliola
+- Jérôme Tremblay
 
 """
 #************************************************************************************
@@ -15,6 +16,7 @@ AUTHORS:
 #                     Simon Désaulniers <rostydela@gmail.com>                       *
 #                     Sébastien Labbé <slabqc@gmail.com>,                           *
 #                     Franco Saliola <saliola@gmail.com>                            *
+#                     Jérôme Tremblay <jerome.tremblay@gmail.com>                   *
 #                                                                                   *
 #  Distributed under the terms of the GNU General Public License version 2 (GPLv2)  *
 #                                                                                   *
